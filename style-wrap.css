@@ -79,11 +79,11 @@ header, .article-container, article {
 
   header, nav {
     height: 40%;
-    width:40%;
+    width: 35%;
   }
 
   .article-container {
-    width: 60%;
+    width: 65%;
     align-self: stretch;
     flex-grow: 3;
     flex-direction: column;
